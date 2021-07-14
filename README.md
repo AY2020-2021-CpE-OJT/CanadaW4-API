@@ -1,1 +1,1 @@
-# CanadaW4-API
+# A repository for the Phonebook API using node.js, express and mongoose library, and Heroku.
